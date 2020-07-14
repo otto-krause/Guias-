@@ -11,6 +11,6 @@
      p=2*a+2*b;
      ar=a*b;
      system("cls");
-     printf("El perímetro es %d y el área es %d", p, ar);
+     printf("El per%cmetro es %d y el %crea es %d", 161, p, 160, ar);
      return 0;
  }
